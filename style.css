@@ -22,4 +22,8 @@ body::before {
     margin-right: 10PX;
     
   }
-  
+  .hero{
+      width:150px;
+      height:140px;
+      border-radius:120px;
+  }
